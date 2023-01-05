@@ -1,0 +1,14 @@
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.AssemblyInfoInputs.cache
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.AssemblyInfo.cs
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.csproj.CoreCompileInputs.cache
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\netcoreapp3.1\MouseSpeed.exe
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\netcoreapp3.1\MouseSpeed.deps.json
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\netcoreapp3.1\MouseSpeed.runtimeconfig.json
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\netcoreapp3.1\MouseSpeed.runtimeconfig.dev.json
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\netcoreapp3.1\MouseSpeed.dll
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\netcoreapp3.1\MouseSpeed.pdb
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.dll
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.pdb
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.genruntimeconfig.cache
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\netcoreapp3.1\MouseSpeed.csproj.AssemblyReference.cache

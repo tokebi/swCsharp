@@ -1,0 +1,16 @@
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.AssemblyInfoInputs.cache
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.AssemblyInfo.cs
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.csproj.CoreCompileInputs.cache
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.csproj.AssemblyReference.cache
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\MouseSpeed.exe
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\MouseSpeed.deps.json
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\MouseSpeed.runtimeconfig.json
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\MouseSpeed.runtimeconfig.dev.json
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\MouseSpeed.dll
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\ref\MouseSpeed.dll
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\bin\Debug\net5.0-windows\MouseSpeed.pdb
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.dll
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\ref\MouseSpeed.dll
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.pdb
+C:\Users\hhara\source\repos\MouseSpeed\MouseSpeed\obj\Debug\net5.0-windows\MouseSpeed.genruntimeconfig.cache

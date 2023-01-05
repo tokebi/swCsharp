@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MouseSpeed": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}
